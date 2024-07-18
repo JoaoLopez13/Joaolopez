@@ -1,0 +1,46 @@
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+.section-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.card-img-top {
+    width: 50px;
+    height: 50px;
+}
+.card {
+    border: none;
+}
+.header-section {
+    text-align: center;
+    padding: 50px 0;
+}
+.hero-image {
+    width: 100%;
+    height: auto;
+}
+.bg-dark-blue {
+    background-color: #343a40;
+    color: white;
+}
+#img-isil{
+    width: 300px;
+}
+footer {
+    background-color: #242b3d;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+footer .social-icons a {
+    color: white;
+    margin: 0 10px;
+    font-size: 24px;
+}
+footer .social-icons a:hover {
+    color: #00aced;
+}
